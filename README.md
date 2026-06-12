@@ -1,6 +1,6 @@
 # GoodToDo
 開発未経験ですが、よろしくお願いします。
-ChatGPTを使って、iOS向けのアプリを開発するオープンソース・プロジェクトです。
+ChatGPTを使って、iPhoneだけでiOS向けのアプリを開発するオープンソース・プロジェクトです。Mac/Winがなくても開発はできるのか挑戦しています。
 
 # Minimalist iOS/Web Task Manager Project
 This is an emerging open-source project aimed at building a lightweight, AI-integrated task manager for iOS and Web environments. 
